@@ -21,8 +21,12 @@
     background-image: url("/images/lap.jpg");
     margin-left: 6.5%;
     margin-right: 6.5%;
+    color: whitesmoke;
 }
 #h3 {
     text-align: center;
     color: whitesmoke;
+}
+.serve {
+    text-align: center;
 }
