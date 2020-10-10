@@ -1,17 +1,20 @@
 .home {
     background-image: url("/images/ground.jpg");
-    margin-left: 15%;
-    margin-right: 15%;
-}
+    /* margin-left: 15%;
+    margin-right: 15%;*/
+} 
 #h {
     color: whitesmoke;
     text-align: center;
     font-size: 30px;
 }
 .us {
-    margin-left: 38%;
-    padding: 60px;
+    margin-left: 39%;
+    padding: 80px;
 }
 .click {
     margin-left: 49%;  
+}
+.about {
+    text-align: center;
 }
