@@ -36,3 +36,15 @@
 .what {
     text-align: center;
 }
+#col {
+    margin-left: 10%;
+} 
+#do {
+    padding-top: 20px;
+}
+.row {
+    padding-top: 20px;
+}
+#pro {
+    margin-right: 10%;
+}
