@@ -3,4 +3,9 @@
 }
 #h {
     color: whitesmoke;
+    text-align: center;
+    font-size: 30px;
+}
+.image {
+    margin-left: 46%;
 }
