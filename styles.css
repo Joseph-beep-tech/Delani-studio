@@ -1,5 +1,7 @@
 .home {
     background-image: url("/images/ground.jpg");
+    margin-left: 15%;
+    margin-right: 15%;
 }
 #h {
     color: whitesmoke;
@@ -7,6 +9,9 @@
     font-size: 30px;
 }
 .us {
-    margin-left: 43%;
+    margin-left: 38%;
     padding: 60px;
+}
+.click {
+    margin-left: 49%;  
 }
