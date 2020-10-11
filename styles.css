@@ -86,3 +86,12 @@ h4 {
     text-align: center;
     padding-top: 10px;
 }
+.me {
+    display: none;
+}
+.wes {
+    display: none;
+}
+.overlay-1 {
+    display: none;
+}
