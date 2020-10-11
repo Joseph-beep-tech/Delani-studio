@@ -23,5 +23,16 @@ $(document).ready(function() {
         $(".clue").hide(1500);
         $(".wes").show(1500);
     });
-    
+    $(".icon").click(function() {
+        $(".overlay-1").show(1500);
+        $(".overlay-1").show(1500);
+    });
+    $(".overlay-1").click(function() {
+        $(".overlay-1").hide(1500);
+        $(".icon").show(1500);
+    });
+    $(".icon").click(function() {
+        $(".icon").hide(1500);
+        $(".overlay-1").show(1500);
+    });
 });
