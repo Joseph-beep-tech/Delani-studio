@@ -1,10 +1,27 @@
 $(document).ready(function() {
     $(".deg").click(function() {
-    $(".me").show();
-    $(".me").show();
+    $(".me").show(1500);
+    $(".me").show(1500);
     });
     $(".me").click(function() {
-        $(".me").hide();
-        $(".deg").show();
+        $(".me").hide(1500);
+        $(".deg").show(1500);
     });
+    $(".deg").click(function() {
+        $(".deg").hide(1500);
+        $(".me").show(1500);
+    });
+    $(".clue").click(function() {
+        $(".wes").show(1500);
+        $(".wes").show(1500);
+    });
+    $(".wes").click(function() {
+        $(".wes").hide(1500);
+        $(".clue").show(1500);
+    });
+    $(".clue").click(function() {
+        $(".clue").hide(1500);
+        $(".wes").show(1500);
+    });
+    
 });
