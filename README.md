@@ -5,7 +5,7 @@
 ## Setup instructions
 * Launch your browser
 * on your search bar  write git hub.com
-* on github click the link {https://joseph-beep-tech.github.io/Delani-studio/}  and you ready to go.
+* on github click the link https://github.com/Joseph-beep-tech/Delani-studio  and you ready to go.
 ### BDD 
 Delani studio tracks and store your personal information in an online plart form like mailchimp.
 ### Find me on:
@@ -15,7 +15,7 @@ twitter@joseph_tech
 or make a call 0740024319 / 0788230347
 ### Git Hub Live Link
 *Delani-studio*
-{https://joseph-beep-tech.github.io/Delani-studio/}
+https://joseph-beep-tech.github.io/Delani-studio/
  ## Technologies used
  HTML for designing webpage
  css and Bootstrap for styling webpage
