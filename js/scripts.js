@@ -36,3 +36,37 @@ $(document).ready(function() {
         $(".overlay-1").show(1500);
     });
 });
+$(document).ready(function() {
+    $(".j1").hover(function() {
+        $("#dark").toggle();
+    });
+
+    $(".j2").hover(function() {
+    $("#ont").toggle();
+    });
+
+    $(".j3").hover(function() {
+    $("#mid").toggle();
+    });
+
+    $(".j4").hover(function() {
+    $("#car").toggle();
+    });
+  
+    $(".j5").hover(function() {
+    $("#gud").toggle();
+    });
+
+    $(".j6").hover(function() {
+    $("#sach").toggle();
+    });
+
+    $(".j7").hover(function() {
+    $("#bun").toggle();
+    });
+
+    $(".j8").hover(function() {
+    $("#gif").toggle();
+    });
+
+});

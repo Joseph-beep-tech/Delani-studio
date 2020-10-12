@@ -49,11 +49,11 @@
 #pro {
     margin-right: 10%;
 }
-.raw {
+/* .raw {
     float: left;
     padding-left: 20%;
     padding-top: 20px;
-}
+} */
 #lio {
     text-align: center;
 }
@@ -62,7 +62,7 @@
 }
 .cont {
     background-image: url("../images/back.jpg");
-    margin-top: 380px;
+    margin-top: 30px;
     margin-left: 6.5%;
     margin-right: 6.5%;
 }
@@ -94,4 +94,23 @@ h4 {
 }
 .overlay-1 {
     display: none;
+}
+#dark, #ont, #mid, #car, #gud, #sach, #bun, #gif{
+ display: none;
+ position: absolute;
+ background: rgba(21, 23, 45, 0.5);
+ transition: 0.5s;
+ color: white;
+ border: 1px solid white;
+ margin-left: 21px;
+ margin-top: 35px;
+ text-align: center;
+ cursor: progress;
+}
+
+/* .j1, .j2, .j3, .j4, .j5, .j6, .j7, .j8 {
+    margin-right: 40px;
+} */
+.raw{
+    padding-left: 20%;
 }
