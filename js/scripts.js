@@ -70,3 +70,13 @@ $(document).ready(function() {
     });
 
 });
+function  love() {
+    var name = document.getElementById("name").value;
+    if(name){
+    alert("Thank you " + name + " for being in touch with us!");
+} else{
+    alert(" please enter your name and email");
+}
+};
+
+
