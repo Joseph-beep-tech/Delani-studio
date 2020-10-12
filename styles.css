@@ -43,17 +43,9 @@
 #do {
     padding-top: 20px;
 }
-.row {
-    padding-top: 20px;
-}
 #pro {
     margin-right: 10%;
 }
-/* .raw {
-    float: left;
-    padding-left: 20%;
-    padding-top: 20px;
-} */
 #lio {
     text-align: center;
 }
@@ -103,15 +95,19 @@ h4 {
  transition: 0.5s;
  color: white;
  border: 1px solid white;
- margin-left: 21px;
- margin-top: 35px;
+ margin-left: 15px;
+ margin-top: 15px;
  text-align: center;
  cursor: progress;
+ padding: 40px;
 }
-
-/* .j1, .j2, .j3, .j4, .j5, .j6, .j7, .j8 {
-    margin-right: 40px;
-} */
 .raw{
-    padding-left: 20%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.card img{
+    width: 200px;
+}
+.card{
+    width: 200px;
 }

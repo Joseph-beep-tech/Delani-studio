@@ -72,11 +72,13 @@ $(document).ready(function() {
 });
 function  love() {
     var name = document.getElementById("name").value;
-    if(name){
+    var email = document.getElementById("mce-EMAIL").value;
+    if(name && email){
     alert("Thank you " + name + " for being in touch with us!");
 } else{
     alert(" please enter your name and email");
 }
+
 };
 
 
